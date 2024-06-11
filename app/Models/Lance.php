@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\Leilao\Model;
+namespace App\Models;
 
 class Lance
 {
